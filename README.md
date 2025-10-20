@@ -25,16 +25,6 @@
 
 - 交互式循环：导出完成后可继续输入新的歌单，输入 `0`  /  `q`  /  `quit`  /  `exit` 退出程序。
 
-  ---
-
-### 文件列表
-
-- `qq_music_playlist_export.py` — 主脚本（交互式）
-- `README.md` — 使用说明（本文件）
-- `requirements.txt` — Python 依赖
-- `LICENSE` — MIT 许可证
-- `.gitignore` — 忽略文件
-
 ---
 
 ### 依赖
@@ -102,4 +92,5 @@ python qq_music_playlist_export.py
 
 欢迎提交 issue 或 pull request。
  本仓库采用 MIT 许可证，详见 `LICENSE` 文件。作者：`lengxiQwQ`。
+
 
