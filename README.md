@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-NonCommercial%20MIT-green)](./LICENSE)
 [![Build](https://github.com/lengxiQwQ/qqmusic-playlist-exporter/actions/workflows/ci.yml/badge.svg)](https://github.com/lengxiQwQ/qqmusic-playlist-exporter/actions)
-[![Stars](https://img.shields.io/github/stars/lengxiQwQ/qqmusic-playlist-exporter?style=social)](https://github.com/lengxiQwQ/qqmusic-playlist-exporter/stargazers)
 [![Issues](https://img.shields.io/github/issues/lengxiQwQ/qqmusic-playlist-exporter)](https://github.com/lengxiQwQ/qqmusic-playlist-exporter/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/lengxiQwQ/qqmusic-playlist-exporter)](https://github.com/lengxiQwQ/qqmusic-playlist-exporter/commits/main)
 
@@ -92,5 +91,6 @@ python qq_music_playlist_export.py
 
 欢迎提交 issue 或 pull request。
  本仓库采用 MIT 许可证，详见 `LICENSE` 文件。作者：`lengxiQwQ`。
+
 
 
