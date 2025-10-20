@@ -1,0 +1,4 @@
+requests
+
+# 可选（仅在需要导出 .xlsx 时安装）
+openpyxl
